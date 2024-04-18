@@ -115,7 +115,7 @@ PATCH /profile
 
 ### Conditions
 
-- ` ` → `==`
+- `=` → `==`
 - `lt` → `<`
 - `lte` → `<=`
 - `gt` → `>`
